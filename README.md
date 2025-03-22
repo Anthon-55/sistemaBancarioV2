@@ -1,7 +1,7 @@
 # sistemaBancarioV2
 
 
-##Algumas das implementações no projecto
+## Algumas das implementações no projecto
 
 
 Menu Interativo: Apresenta as opções disponíveis e recebe a escolha do usuário.
